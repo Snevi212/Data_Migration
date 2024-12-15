@@ -1,0 +1,7 @@
+INFO:15:Dec:24 21:26:39:root:Successfully connect to MySql databse
+INFO:15:Dec:24 21:29:37:root:Data dumped to Mssql database
+INFO:15:Dec:24 21:29:37:root:Successfully connect to Mssql databse
+INFO:15:Dec:24 21:29:38:root:Data added to Mssql databse successfully
+INFO:15:Dec:24 21:29:38:root:Process completed!!!
+INFO:15:Dec:24 21:29:38:root:Data migrated succesfully
+INFO:15:Dec:24 21:29:41:root:Email sent
