@@ -52,7 +52,9 @@ def send_email(status):
         gmail_cred = json.load(femail)
 
     sender_email ="psneha010@gmail.com"
+    logging.info("reading the sender email")
     reciever_email = "psneha010@gmail.com"
+    logging.info("reading the recievers email")
     password = f"{gmail_cred['apppass']}"
 
     subject = "Data Migration Status "
